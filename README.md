@@ -3,7 +3,7 @@
 A classic dice game built with HTML, CSS, and JavaScript. Roll the dice, accumulate points, but be cautious not to roll a 1 and lose your turn. The first player to reach the specified winning score is declared the winner!
 
 <p align="center">
-  <img src="url_to_game_screenshot" alt="Pig Game Screenshot" width="800" />
+  <img src="https://github.com/Divyesh-5981/pig-game/blob/master/pig.png?raw=true" alt="Pig Game Screenshot" width="800" />
 </p>
 
 ## Features 🎲
